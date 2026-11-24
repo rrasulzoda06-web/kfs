@@ -1,0 +1,303 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    max-width: 1600px;
+    margin: auto;
+    position: relative;
+}
+.yak{
+    background: linear-gradient(#FF4029, #F02228);
+    color: white;
+    height: 750px;
+    position: relative;
+    overflow: hidden;
+}
+.yakcha{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    margin-bottom: 60px;
+}
+.a1{
+    padding-left: 135px;
+}
+.a2{
+    padding-left: 600px;
+    padding-right: 40px;
+}
+.a3{
+    padding-right: 40px;
+}
+.a4{
+    padding-right: 60px;
+}
+.a5{
+    position: absolute;
+    top: -10px;
+    left: 460px;
+}
+.yaakk{
+    padding-left: 135px;
+    display: flex;
+}
+.b1{
+    position: relative;
+    z-index: 1;
+    font-size: 69px;
+    font-weight: 90px;
+}
+.b3{
+    border: 5px solid white;
+    width: 200px;
+    text-align: center;
+    border-radius: 40px;
+    padding: 15px;
+    font-size: 20px;
+}
+.b4{
+    padding-right: 150px;
+    position: absolute;
+    z-index: 1;
+    left: 700px;
+}
+.b5{
+    position: relative;
+    top: -150px;
+    left: -130px;
+}
+.b6{
+    position: absolute;
+    left: -0px;
+    top: 80px;
+}
+.b7{
+    position: absolute;
+    bottom: -80px;
+    left: -0px;
+}
+.b9{
+    font-size: 20px;
+    padding-right: 70px;
+}
+.men{
+    width: 80px;
+    text-align: center;
+    background-color: #FFC71F;
+    color: white;
+    padding: 13px 40px;
+    border-radius: 30px;
+    position: absolute;
+    left: 700px;
+    top: 730px;
+    font-weight: 800;
+    font-size: 20px;
+}
+.du{
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    padding: 0px 135px;
+    padding-top: 40px;
+}
+.c1{
+    border-bottom: 5px solid #F02228;
+    width: 123px;
+}
+.bur{
+    background-image: url("rasmho/chiz.jpg");
+    background-repeat: no-repeat;
+    margin-top: 200px;
+    min-height: 800px;
+}
+.see{
+    display: flex;
+    padding: 50px 135px;
+    gap: 20px;
+    padding-top: 110px;
+}
+.se{
+    display: flex;
+    background-color: rgb(245, 240, 240);
+    width: 370px;
+    height: 170px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.da{
+    position: relative;
+    left: 60px;
+}
+.d3{
+    position: relative;
+    top: -155px;
+    left: -35px;
+}
+.p{
+    position: relative;
+    top: -198px;
+}
+.d2{
+    position: relative;
+    z-index: 1;
+    top: -110px;
+    left: -50px;
+}
+.o{
+    position: relative;
+    left: 90px;
+    top: -170px;
+}
+.d4{
+    font-size: 13px;
+}
+.d5{
+    background-color: #F73D27;
+    width: 80px;
+    padding: 8px 30px;
+    color: white;
+    border-radius: 20px;
+    font-weight: 600;
+
+}
+.d6{
+    background-color: #FFC71F;
+    color: black;
+    width: 80px;
+    padding: 8px 30px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+.sd{
+    display: flex;
+    background-color: #F22D2A;
+    color: white;
+    width: 370px;
+    height: 170px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.dg{
+    position: relative;
+    left: 80px;
+}
+.i{
+    position: relative;
+    left: -70px;
+}
+.u{
+    position: relative;
+    top: -170px;
+    left: -50px;
+}
+.e{
+    position: relative;
+    left: 70px;
+}
+.d9{
+    white-space: nowrap;
+}
+.chor {
+    display: flex;
+    gap: 18px;
+    padding: 0 135px;
+    margin-top: 45px;
+}
+.ch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(245, 240, 240);
+    width: 50%;
+    min-height: 190px;
+    border-radius: 20px;
+    padding: 20px 25px;
+    box-sizing: border-box;
+    position: relative;
+    overflow: visible;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+}
+.ch .d {
+    position: relative;
+    z-index: 2;
+    max-width: 48%;
+}
+.ch .d h2 {
+    font-size: 20px;
+    line-height: 1.25;
+    color: #111111;
+}
+.ch .d img {
+    vertical-align: middle;
+    max-height: 36px;
+}
+.ch .da.dg {
+    position: relative;
+    left: 0;
+    width: 50%;
+    height: 170px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.ch .d8 {
+    position: absolute;
+    right: 6px;
+    top: 12px;
+    width: 125px;
+    z-index: 1;
+}
+.f1 {
+    position: absolute;
+    left: 10px;
+    bottom: 2px;
+    max-height: 118px;
+    z-index: 7;
+}
+.f2 {
+    position: absolute;
+    left: 80px;
+    bottom: 0;
+    top: 70px;
+    max-width: 76px;
+    z-index: 4;
+}
+.f3 {
+    position: absolute;
+    right: 26px;
+    bottom: 4px;
+    max-height: 230px;
+    z-index: 3;
+}
+.f4 {
+    position: absolute;
+    right: 40px;
+    bottom: 0;
+    max-width: 62px;
+    z-index: 4;
+}
+.f5 {
+    position: absolute;
+    right: -20px;
+    bottom: -4px;
+    z-index: 1;
+}
+.g1{
+    position: relative;
+    left: -15px;
+    top: -20px;
+}
+.g2{
+    position: relative;
+    left: 10px;
+    top: 10px;
+    width: 140px;
+    height: 50px;
+}
