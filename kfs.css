@@ -111,11 +111,11 @@ body{
     background-image: url("rasmho/chiz.jpg");
     background-repeat: no-repeat;
     margin-top: 200px;
-    min-height: 800px;
+    min-height: 650px;
 }
 .see{
     display: flex;
-    padding: 50px 135px;
+    padding: 40px 135px 15px 135px;
     gap: 20px;
     padding-top: 110px;
 }
@@ -208,7 +208,7 @@ body{
     display: flex;
     gap: 18px;
     padding: 0 135px;
-    margin-top: 45px;
+    margin-top: 30px;
 }
 .ch {
     display: flex;
@@ -300,4 +300,99 @@ body{
     top: 10px;
     width: 140px;
     height: 50px;
+}
+.panj{
+   display: flex;
+   padding: 0px 135px; 
+   background-color: #FFB737;
+   height: 330px;
+}
+.jj{
+    width: 500px;
+}
+.jj1{
+    position: relative;
+    top: -60px;
+    z-index: 1;
+}
+.jj2{
+    position: relative;
+    top: -90px;
+    left: -50px;
+}
+.jjj{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.jj4{
+    font-size: 40px;
+    color: white;
+}
+.jj5{
+    padding-right: 50px;
+}
+.s1{
+    padding-top: 120px;
+    padding-left: 250px;
+   font-size: 60px; 
+}
+.s2{
+    padding-left: 250px;
+    font-size: 18px;
+}
+.s{
+    padding: 30px 40px 30px 60px ;
+    background-color: rgb(245, 240, 240);
+    width: 300px;
+    height: 160px;
+    border-radius: 20px;
+    position: relative;
+    left: 800px;
+    top: -100px ;
+}
+.s3{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.s4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.s5{
+    position: relative;
+    top: -190px;
+    left: -35px;
+    color: rgb(84, 174, 226);
+    font-size: 50px;
+}
+.ss{
+    padding: 50px 60px 30px 60px ;
+    background-color: rgb(245, 240, 240);
+    width: 250px;
+    height: 350px;
+    border-radius: 20px;
+    position: relative;
+    left: 350px;
+    top: -180px ;
+}
+.s6{
+    position: relative;
+    top: -350px;
+    left: -30px;
+    color: rgb(84, 174, 226);
+    font-size: 50px;
+}
+.k{
+    position: relative;
+    top: -200px;
+}
+.sss{
+    padding: 50px 60px 30px 60px ;
+    background-color: rgb(245, 240, 240);
+    width: 280px;
+    height: 220px;
+    border-radius: 20px;
+    position: relative;
+    left: 800px;
+    top: -480px ;
 }
