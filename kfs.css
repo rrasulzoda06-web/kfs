@@ -348,7 +348,7 @@ body{
     border-radius: 20px;
     position: relative;
     left: 800px;
-    top: -100px ;
+    bottom: 100px ;
 }
 .s3{
     font-size: 20px;
@@ -360,7 +360,7 @@ body{
 }
 .s5{
     position: relative;
-    top: -190px;
+    bottom: 190px;
     left: -35px;
     color: rgb(84, 174, 226);
     font-size: 50px;
@@ -373,7 +373,7 @@ body{
     border-radius: 20px;
     position: relative;
     left: 350px;
-    top: -180px ;
+    bottom: 180px ;
 }
 .s6{
     position: relative;
@@ -394,5 +394,30 @@ body{
     border-radius: 20px;
     position: relative;
     left: 800px;
-    top: -480px ;
+    bottom: 480px ;
+}
+.haft{    
+    padding: 0 135px;
+    background-color: #F02228;
+    display: flex;
+    align-items: center;
+    color: white;
+    height: 120px;
+    position: relative;
+    bottom: 360px;
+}
+.q1{
+    padding-left: 100px;
+    padding-right: 20px;
+}
+.q2{
+    padding-left: 70px;
+    padding-right: 20px;
+}
+.q3{
+    padding-left: 70px;
+    padding-right: 55px;
+}
+.q4{
+    padding-left: 50px;
 }
